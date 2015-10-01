@@ -1,0 +1,6 @@
+var group__traits =
+[
+    [ "is_byte_array", "structasioext_1_1is__byte__array.html", [
+      [ "value", "structasioext_1_1is__byte__array.html#ae9367178b68a2a5c1f63d1c37f0525b4", null ]
+    ] ]
+];
